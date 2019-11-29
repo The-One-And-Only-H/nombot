@@ -18,4 +18,6 @@ If you want to schedule running the program regularly then you can use this in y
 - `NB_SLACK_TOKEN=<your token>`
 - `0 12 * * FRI /Users/h/nom_bot/env/bin/python /Users/h/nom_bot/nombot.py`
 - `0 15 * * FRI /Users/h/nom_bot/env/bin/python /Users/h/nom_bot/nombot.py`
-- `30 17 * * FRI /Users/h/nom_bot/env/bin/python /Users/h/nom_bot/nomresbot.py`
+
+- `NB_SLACK_TOKEN=<your token>`
+- `0 17 * * FRI /Users/h/nom_bot/env/bin/python /Users/h/nom_bot/nomresbot.py`
