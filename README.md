@@ -1,3 +1,13 @@
+# Nombot
+
+Python script built for Neverbland sending automated internal weekly nominations form using Slackbot and Crontabs.
+
+Tech stack:
+
+- Python
+- Slack client
+- Crontabs
+
 The first time you check out the code:
 
 - Create a virtualenv with `virtualenv -p python3 env`

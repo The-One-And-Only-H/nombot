@@ -24,6 +24,9 @@ def main():
     slack_client.chat_postMessage(
         channel="UFJN8LZJN", text="Nom results here: https://docs.google.com/spreadsheets/d/1KTJ1Fmu3RxfgpPdivSJ8AizfrYe80P7GiosKaRFFrvo/edit#gid=340226277")
 
+    slack_client.chat_postMessage(
+        channel="U524K2KS7", text="Nom results here: https://docs.google.com/spreadsheets/d/1KTJ1Fmu3RxfgpPdivSJ8AizfrYe80P7GiosKaRFFrvo/edit#gid=340226277")
+
 
 if __name__ == '__main__':
     main()
@@ -32,3 +35,4 @@ if __name__ == '__main__':
 # Faraday: UKP6THU7Q
 # Scott: U029WUVCG
 # H: UFJN8LZJN
+# Willem: U524K2KS7
